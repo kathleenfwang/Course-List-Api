@@ -19,7 +19,12 @@ or
 ```sh
 yarn install
 ```
-#### Run node app.js and start listening on your local port or localhost:3000! 
+### Running
+- Run node app.js and start listening on your local port or localhost:3000! 
+- Use the [Postman Chrome Extension](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) to add,update, and delete course names by changing the request name. 
+  - To add a course, make the request name to "POST"
+  - To edit a course, make the request name to "PUT"
+  - To delete a course, make the request name to "DELETE"
 
 ### Future Additions: 
 - Utilize ejs files to provide a form to update, add, and delete course names. 
