@@ -1,4 +1,4 @@
-# Course app Node Practice
+# Course List app 
 
 CRUD app to show, add, edit, and delete a course list. Uses [Joi](https://www.npmjs.com/package/joi) for course name validation. 
 
