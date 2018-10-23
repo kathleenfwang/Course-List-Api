@@ -1,6 +1,6 @@
 # Course List app 
 
-- CRUD Node.js and Express app to show, add, edit, and delete a course list. 
+- RESTful Node.js and Express app to show, add, edit, and delete a course list. 
 - Uses [Joi](https://www.npmjs.com/package/joi) for course name validation. 
 
 ### Clone or download this repository
